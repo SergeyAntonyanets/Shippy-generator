@@ -2,7 +2,7 @@
 build/
 dist/
 
-*.spac
+*.spec
 
 
 #Application
@@ -10,4 +10,4 @@ dbs/
 *.pkl
 
 #python
-__pycache__
+__pycache__/
