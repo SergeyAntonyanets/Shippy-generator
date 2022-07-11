@@ -1,0 +1,8 @@
+#pyinstaller
+/build/
+/dist/
+main.spac
+
+#Application
+/dbs/
+h.pkl
