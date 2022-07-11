@@ -1,8 +1,12 @@
 #pyinstaller
-/build/
-/dist/
+build/
+dist/
+Shippy generator.spec
 main.spac
 
 #Application
-/dbs/
+dbs/
 h.pkl
+
+#python
+/__pycache__
